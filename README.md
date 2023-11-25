@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harinarayanan-kp
 - 👀 I’m interested in Designing and Frontend Development
-- 🌱 I’m currently learning MERN stack, flutter, Django
+- 🌱 I’m currently learning MERN stack, FARM stack, flutter, Django
 - 📫 You can reach me on
 - [https://www.linkedin.com/in/harinarayanan-kp-a25094255/]
 - [www.instagram.com/harinarayanan.kp]
