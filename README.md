@@ -3,6 +3,8 @@
 - 🌱 Currently learning MERN stack, FARM stack, flutter, Django
 - 📫 You can reach me on
 - [https://www.linkedin.com/in/harinarayanan-kp-a25094255/]
+- https://www.hackerrank.com/profile/harikpaug18
+- https://leetcode.com/harixn/
 - [www.instagram.com/harinarayanan.kp]
 - [mailto:harikpaug18@gmail.com]
 
