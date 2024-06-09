@@ -1,20 +1,36 @@
-- 👋 Hi, I’m @harinarayanan-kp
-- 👀 Interested in Designing and Frontend Development
-- 🌱 Currently learning MERN stack, FARM stack, flutter, Django
-- 📫 You can reach me on
-- [https://www.linkedin.com/in/harinarayanan-kp-a25094255/]
-- https://www.hackerrank.com/profile/harikpaug18
-- https://leetcode.com/harixn/
-- [www.instagram.com/harinarayanan.kp]
-- [mailto:harikpaug18@gmail.com]
+## hey HARI here <3
+<div align="center">
+  <img src="./logo_hari.gif" height="200" />
+</div>
 
-<!---
-harinarayanan-kp/harinarayanan-kp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Hi there! I'm Harinarayanan K P, a passionate UI/UX designer and front-end developer with a love for crafting beautiful and user-friendly interfaces. I fuel my creativity with endless cups of coffee ☕️ and strive for pixel perfection in every project. Let's collaborate and build something amazing together!
 
-[![image](https://github.com/harinarayanan-kp/harinarayanan-kp/assets/128388788/4d485c35-99de-4b51-9dac-6f2feea903b5)](www.instagram.com/harinarayanan.kp)
+**Skills & Tools:**
 
---->
+* **Front-End Development:** React, Flutter, ThreeJS, HTML, CSS, JavaScript
+* **Back-End Development:** Firebase
+* **UI/UX Design:** Figma
+* **Programming Languages:** Python, C, C++
+
+Check out >>
+
+* **[[**portfolio**](https://harinarayanan-kp.github.io/heyhari/)]**
+  
+* **[[**Behance**](https://www.behance.net/haritech1)]**
+
+  
+**Let's Connect!**
+
+I'd love to hear from you and explore potential collaborations. Feel free to reach out on:
+
+* **LinkedIn:** [Harinarayanan KP](https://www.linkedin.com/in/harinarayanan-kp-a25094255/)
+* **Email:** [harikpaug18@gmail.com](mailto:harikpaug18@gmail.com)
+* **Instagram:** [harinarayanan.kp](www.instagram.com/harinarayanan.kp)
+![logo_animated](https://github.com/harinarayanan-kp/harinarayanan-kp/assets/128388788/a9849667-fab2-4fed-8092-bd7b0da337bc)
+
+**LeetCode:** [harixn](https://leetcode.com/harixn/)
 
 
+**Looking Forward!**
 
+I'm constantly learning and evolving, excited to explore new technologies and challenges. Feel free to browse through my repositories to see some of the projects I'm working on. Let's build something amazing together!
