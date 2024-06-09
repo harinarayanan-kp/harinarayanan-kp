@@ -26,7 +26,6 @@ I'd love to hear from you and explore potential collaborations. Feel free to rea
 * **LinkedIn:** [Harinarayanan KP](https://www.linkedin.com/in/harinarayanan-kp-a25094255/)
 * **Email:** [harikpaug18@gmail.com](mailto:harikpaug18@gmail.com)
 * **Instagram:** [harinarayanan.kp](www.instagram.com/harinarayanan.kp)
-![logo_animated](https://github.com/harinarayanan-kp/harinarayanan-kp/assets/128388788/a9849667-fab2-4fed-8092-bd7b0da337bc)
 
 **LeetCode:** [harixn](https://leetcode.com/harixn/)
 
