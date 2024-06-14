@@ -8,7 +8,7 @@ Hi there! I'm Harinarayanan K P, a passionate UI/UX designer and front-end devel
 **Skills & Tools:**
 
 * **Front-End Development:** React, Flutter, ThreeJS, HTML, CSS, JavaScript
-* **Back-End Development:** Firebase
+* **Back-End Development:** MongoDB, Express, Firebase
 * **UI/UX Design:** Figma
 * **Programming Languages:** Python, C, C++
 
