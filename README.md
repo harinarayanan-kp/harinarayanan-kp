@@ -36,5 +36,4 @@ I'm constantly learning and evolving, excited to explore new technologies and ch
 
 
 
-Buy me a coffee
-[https://www.patreon.com/Harinarayanan/shop/coffee-for-hariii-251742?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_creator&utm_content=join_link]
+[[BUY ME A COFFEE](https://www.patreon.com/Harinarayanan/shop/coffee-for-hariii-251742?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_creator&utm_content=join_link)]
