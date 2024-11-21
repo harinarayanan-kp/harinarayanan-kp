@@ -60,6 +60,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinarayanan-kp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
   </p>
 
+[![](https://visitcount.itsvg.in/api?id=harinarayanan-kp&icon=0&color=4)](https://visitcount.itsvg.in)
   <h2>💰 You can help me by Donating:</h2>
   <p>
     <a href="https://buymeacoffee.com/harixn">
