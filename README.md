@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./logo_hari.gif" height="200" />
   <h1>💫 About Me:</h1>
-  <p>Hey, I’m Harinarayanan K P, a passionate developer and tech enthusiast. I specialize in C, C++, Python, JavaScript, React, Firebase, Three.js, MERN, and Flutter, with a strong focus on front-end UI/UX design. Currently, I’m diving into Machine Learning, expanding my skill set. Beyond coding, I’m deeply into graphic design, 3D modeling & animation, photography, video editing, and motion graphics, which fuel my creativity.</p>
+  <p>Hey, I’m Harinarayanan K P, a passionate developer and tech enthusiast. I specialize in C, C++, Python, JavaScript, React, Firebase, Three.js, MERN, and Flutter, with a strong focus on front-end UI/UX design. Currently, I’m diving into Machine Learning, expanding my skill set. Beyond coding, I’m deeply into graphic design, 3D modeling & animation, photography, video editing, and motion graphics, which fuel my creativity.✨️</p>
 
   <h2>🌐 Socials:</h2>
   <p>
