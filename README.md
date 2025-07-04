@@ -1,5 +1,8 @@
 <div>
   <img src="./logo_hari.gif" height="200" style="display: block; margin: 0 auto;" />
+  <p align="center">
+  <img src="./portfolio_2.png" width="200" style="display: block; margin: 0 auto;" />
+  </p>
   <h1>💫 About Me:</h1>
   <p align="left">
     👋 Hi! I'm a tech enthusiast passionate about building smart and creative solutions.<br>
