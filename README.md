@@ -5,13 +5,18 @@
       <img src="./portfolio_2.png" width="200" style="display: block; margin: 0 auto;" />
     </a>
   </p>
-  <h1>💫 About Me:</h1>
-  <p align="left">
-    👋 Hi! I'm a tech enthusiast passionate about building smart and creative solutions.<br>
-    💻 I work with C++, Python3, JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, Flutter, and Firebase.<br>
-    ☁️ I’m also exploring AI/ML with GCP Vertex AI and love diving into machine learning projects.<br>
-    🎨 A design nerd at heart, I care deeply about clean UI and great user experiences.<br>
-    📂 Here you'll find my projects, experiments, and everything I'm learning and building.
+  <h1 style="text-align:center; color:#58a6ff;">💫 About Me</h1>
+  <p>
+    👋 Hey there! I'm a full-stack tinkerer and terminal wizard.<br>
+    💻 Languages I speak: C++, Python, JavaScript (React/Node.js), and some Flutter magic.<br>
+    ☁️ AI/ML enthusiast exploring GCP Vertex AI — yes, I train models for fun.<br>
+    🎨 UI/UX nerd: clean interfaces > flashy gimmicks.<br>
+    🖥️ OS: Linux (i use Arch btw 🐧).<br>
+    📂 Projects, experiments, and random code snippets live here. Enjoy exploring!
+  </p>
+
+  <p style="text-align:center; font-weight:bold; color:#79c0ff; margin-top:1rem;">
+    🖖 “I live in the terminal and occasionally visit GUIs.”
   </p>
 
   <p>
