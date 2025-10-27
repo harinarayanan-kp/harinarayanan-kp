@@ -7,16 +7,15 @@
   </p>
   <h1 style="text-align:center; color:#58a6ff;">💫 About Me</h1>
   <p>
-    👋 Hey there! I'm a full-stack tinkerer and terminal wizard.<br>
-    💻 Languages I speak: C++, Python, JavaScript (React/Node.js), and some Flutter magic.<br>
-    ☁️ AI/ML enthusiast exploring GCP Vertex AI — yes, I train models for fun.<br>
-    🎨 UI/UX nerd: clean interfaces > flashy gimmicks.<br>
-    🖥️ OS: Linux (i use Arch btw 🐧).<br>
+    👋 Hey there! I LIKE TERMINAL.<br>
+    💻 I speak C++, Python, JavaScript (React/Node.js), and some Flutter.<br>
+    ☁️ Moving on from the VibeCode era. <br>
+    <> I like google tools incl. Gemini, GCP, Firebase, Flutter. <br>
+    ☁️ Experminented with some ML projects<br>
+    🎨 UI/UX nerd<br>
+    🖥️ Linux (i use Arch btw 🐧).<br>
+    learning to write scripts.<br>
     📂 Projects, experiments, and random code snippets live here. Enjoy exploring!
-  </p>
-
-  <p style="text-align:center; font-weight:bold; color:#79c0ff; margin-top:1rem;">
-    🖖 “I live in the terminal and occasionally visit GUIs.”
   </p>
 
   <p>
