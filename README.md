@@ -5,22 +5,11 @@
       <img src="./portfolio_2.png" width="200" style="display: block; margin: 0 auto;" />
     </a>
   </p>
-  <h1 style="text-align:center; color:#58a6ff;">💫 About Me</h1>
   <p>
-    👋 Hey there! I LIKE TERMINAL.<br>
-    💻 I speak C++, Python, JavaScript (React/Node.js), and some Flutter.<br>
-    ☁️ Moving on from the VibeCode era. <br>
-    <> I like google tools incl. Gemini, GCP, Firebase, Flutter. <br>
-    ☁️ Experminented with some ML projects<br>
-    🎨 UI/UX nerd<br>
-    🖥️ Linux (i use Arch btw 🐧).<br>
-    learning to write scripts.<br>
-    📂 Projects, experiments, and random code snippets live here. Enjoy exploring!
-  </p>
-
-  <p>
-    <a href="https://buymeacoffee.com/harixn">
-      <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
-    </a>
+    ⚡ 10x engineer.</br>
+  Shipping production-grade software in C++, Rust, Python, and TypeScript— spanning embedded firmware, high-performance services, and distributed cloud backends. </br>
+  I build close to the metal, optimize for performance and reliability, then scale ideas into hardened infrastructure. If it works, I rewrite it in Rust. </br>
+  I homelab everything: self-hosted infra, networking, CI/CD, containers, monitoring. If it can be automated, it will be. </br>
+  Linux-first (Arch). Terminal-native.
   </p>
 </div>
