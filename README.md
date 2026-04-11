@@ -2,7 +2,7 @@
   <img src="./logo_hari.gif" height="200" style="display: block; margin: 0 auto;" />
   <p align="center">
     <a href="https://hellohari.space/" target="_blank">
-      <img src="./portfolio_2.png" width="200" style="display: block; margin: 0 auto;" />
+      <img src="./Frame 1(2).png" width="200" style="display: block; margin: 0 auto;" />
     </a>
   </p>
   <p>
