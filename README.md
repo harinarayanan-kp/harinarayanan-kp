@@ -6,10 +6,9 @@
     </a>
   </p>
   <p>
-    ⚡ 10x engineer.</br>
-  Shipping production-grade software in C++, Rust, Python, and TypeScript— spanning embedded firmware, high-performance services, and distributed cloud backends. </br>
-  I build close to the metal, optimize for performance and reliability, then scale ideas into hardened infrastructure. If it works, I rewrite it in Rust. </br>
-  I homelab everything: self-hosted infra, networking, CI/CD, containers, monitoring. If it can be automated, it will be. </br>
-  Linux-first (Arch). Terminal-native.
+  C, C++, Rust, Python, and TypeScript</br>
+  Living close to the metal</br>
+  Homelab everything</br>
+  Linux-first (I use ARCH btw). Terminal-native.
   </p>
 </div>
